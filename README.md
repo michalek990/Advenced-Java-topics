@@ -15,7 +15,7 @@ Already a pro? Just edit this README.md and make it your own. Want to make it ea
 
 ```
 cd existing_repo
-git remote add origin [https://gitlab.tt.com.pl/vamos/vamos-backend.git](https://github.com/michalek990/Advenced-Java-topics)
+git remote add origin https://github.com/michalek990/Advenced-Java-topics
 git branch -M main
 git push -uf origin main
 ```
